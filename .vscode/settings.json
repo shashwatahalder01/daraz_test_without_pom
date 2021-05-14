@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "C:\\Users\\shash\\.virtualenvs\\daraz_test_without_pom-l2oDXMFi\\Scripts\\python.exe",
+    "python.analysis.extraPaths": ["./b.py","./daraztest.py"],
+}
